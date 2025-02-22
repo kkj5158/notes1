@@ -1,0 +1,231 @@
+{
+  "main": {
+    "id": "229bfdeb909fa381",
+    "type": "split",
+    "children": [
+      {
+        "id": "b18a39fd398094b5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "07c447d321f91f4e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Scanner 클래스와 입력.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Scanner 클래스와 입력"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c2fcb743b30a53e8",
+    "type": "split",
+    "children": [
+      {
+        "id": "97097e8896973588",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b05655d3b264f7b2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "파일 탐색기"
+            }
+          },
+          {
+            "id": "bf30ea0aef945e40",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "검색"
+            }
+          },
+          {
+            "id": "48d63e6ed7848a7c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "북마크"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "916e3a2dba78152c",
+    "type": "split",
+    "children": [
+      {
+        "id": "d193d7c5bf6ca78e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "592653229f26faf1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "백링크"
+            }
+          },
+          {
+            "id": "5799a8ca7974a10c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "나가는 링크"
+            }
+          },
+          {
+            "id": "446b025e8cba8e0b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "태그"
+            }
+          },
+          {
+            "id": "8e6841191da51139",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "개요"
+            }
+          },
+          {
+            "id": "879d87c5a1aa91e2",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "모든 속성"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "publish:변경사항 게재": false,
+      "switcher:빠른 전환기 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 일일 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false
+    }
+  },
+  "active": "07c447d321f91f4e",
+  "lastOpenFiles": [
+    "Blog/1000_창고/클린 아키텍쳐.png",
+    "Scanner 클래스와 입력.md",
+    "무제",
+    "Transaction이란 무엇인가.md",
+    "클린 아키텍쳐에에서의 DTO 관리(네이밍).md",
+    "Blog/1000_창고",
+    "Blog",
+    "비동기 완벽 이해하기.md",
+    "1000.창고/Pasted image 20240607183324.png",
+    "1000.창고/이미지/기리보이.png",
+    "1000.창고/이미지/Pasted image 20231024091337.png",
+    "1000.창고/이미지/스프링 mvc.png",
+    "1000.창고/이미지/스프링 mvc 1.png",
+    "1000.창고/Pasted image 20231220180309.png",
+    "1000.창고/22222.jpg",
+    "1000.창고/이미지/spring mvc 순서.png",
+    "1000.창고/이미지/Pasted image 20231024091407.png",
+    "1000.창고/이미지/4. 검증1 - Validation.pdf",
+    "1000.창고/이미지/Devops",
+    "1000.창고/이미지/api",
+    "1000.창고/이미지/oop",
+    "1000.창고/메인이미지",
+    "1000.창고/이미지",
+    "1000.창고",
+    "Join의 개념에 대해서.md",
+    "헥사고날과 모델 매퍼.md",
+    "멀티쓰레드 구조.md",
+    "권한 구조에 대한 고찰.md",
+    "객체지향이 지향하는 바 (4가지 특성 , 5원칙의 목표).md",
+    "Webhook.md",
+    "REST API.md",
+    "API.md",
+    "서버 구축을 위한, 네트워크 기초.md",
+    "왜 http body 값은 한번만 읽을 수 있는가.md",
+    "프로그램, 프로세스, 스레드.md",
+    "Docker로 ELK 구축하기.md",
+    "Elastic Search.md",
+    "DB 백업하고, 복구하기.md",
+    "MYSQL 작업보기.md",
+    "검색엔진으로서의 SQL.md",
+    "대용량 데이터 , SQL과 Elastic 동기화 시키기.md",
+    "SQL과 ES 병행사용에 대한 고찰.md",
+    "메서드 오버라이딩.md",
+    "메서드 오버로딩(method overloading).md",
+    "SRP (단일 책임 원칙).md"
+  ]
+}

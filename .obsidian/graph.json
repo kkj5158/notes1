@@ -1,0 +1,79 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": true,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "tag:#oop  ",
+      "color": {
+        "a": 1,
+        "rgb": 5754422
+      }
+    },
+    {
+      "query": "tag:#MVC  ",
+      "color": {
+        "a": 1,
+        "rgb": 10114770
+      }
+    },
+    {
+      "query": "tag:#API  ",
+      "color": {
+        "a": 1,
+        "rgb": 9050491
+      }
+    },
+    {
+      "query": "tag:#Architecture  ",
+      "color": {
+        "a": 1,
+        "rgb": 70401
+      }
+    },
+    {
+      "query": "tag:#제텔카스텐  ",
+      "color": {
+        "a": 1,
+        "rgb": 12572986
+      }
+    },
+    {
+      "query": "tag:#http  ",
+      "color": {
+        "a": 1,
+        "rgb": 14970657
+      }
+    },
+    {
+      "query": "tag:#Cs  ",
+      "color": {
+        "a": 1,
+        "rgb": 1173711
+      }
+    },
+    {
+      "query": "tag:#DB  ",
+      "color": {
+        "a": 1,
+        "rgb": 11134214
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": false,
+  "centerStrength": 0.518713248970312,
+  "repelStrength": 10,
+  "linkStrength": 1,
+  "linkDistance": 250,
+  "scale": 1.2884187516294903,
+  "close": true
+}
