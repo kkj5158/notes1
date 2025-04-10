@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/프로그램, 프로세스, 스레드.md",
+                "file": "김영한님 강의/0-3 김영한의 실전 자바 중급 2편/2.제너릭-2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "프로그램, 프로세스, 스레드"
+              "title": "2.제너릭-2"
             }
           },
           {
@@ -27,16 +27,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "김영한님 강의/0-1 김영한의 실전 자바 기본/3.객체 지향 프로그래밍.md",
+                "file": "김영한님 강의/0-1 김영한의 실전 자바 기본/1. 클래스가 필요한 이유.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3.객체 지향 프로그래밍"
+              "title": "1. 클래스가 필요한 이유"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -68,7 +67,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "표준입출력",
+                "query": "제네릭",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -128,11 +127,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "linksCollapsed": false,
+                "file": "김영한님 강의/0-3 김영한의 실전 자바 중급 2편/2.제너릭-2.md",
+                "linksCollapsed": true,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "나가는 링크"
+              "title": "2.제너릭-2 의 나가는 링크"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CodingTest/0-2.코딩테스트를 위한 자료구조(개념)/Scnner 클래스.md",
+                "file": "김영한님 강의/0-3 김영한의 실전 자바 중급 2편/2.제너릭-2.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Scnner 클래스 의 개요"
+              "title": "2.제너릭-2 의 개요"
             }
           },
           {
@@ -178,14 +178,23 @@
               "icon": "lucide-archive",
               "title": "모든 속성"
             }
+          },
+          {
+            "id": "441db8db2fee681c",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -195,14 +204,39 @@
       "canvas:새 캔버스 만들기": false,
       "daily-notes:오늘의 일일 노트 열기": false,
       "templates:템플릿 삽입": false,
-      "command-palette:명령어 팔레트 열기": false
+      "command-palette:명령어 팔레트 열기": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9081fcb2e12dda89",
+  "active": "879d87c5a1aa91e2",
   "lastOpenFiles": [
-    "김영한님 강의/0-1 김영한의 실전 자바 기본/2. 기본형과 참조형.md",
-    "김영한님 강의/0-1 김영한의 실전 자바 기본/1. 클래스가 필요한 이유.md",
+    "김영한님 강의/0-3 김영한의 실전 자바 중급 2편/1. 제네릭.md",
+    "김영한님 강의/0-3 김영한의 실전 자바 중급 2편/2.제너릭-2.md",
+    "OOP/객체지향의 4대 특성.md",
+    "김영한님 강의/0-1 김영한의 실전 자바 기본/10-2. 다형성.md",
     "김영한님 강의/0-1 김영한의 실전 자바 기본/10-1. 다형성.md",
+    "김영한님 강의/0-1 김영한의 실전 자바 기본/12. 다형성과 설계.md",
+    "CS/프로그램, 프로세스, 스레드.md",
+    "김영한님 강의/0-1 김영한의 실전 자바 기본/1. 클래스가 필요한 이유.md",
+    "김영한님 강의/0-1 김영한의 실전 자바 기본/12 다형성2.md",
+    "김영한님 강의/0-1 김영한의 실전 자바 기본/9. 상속.md",
+    "김영한님 강의/0-1 김영한의 실전 자바 기본/8. final.md",
+    "SQL/대용량 데이터 , SQL과 Elastic 동기화 시키기.md",
+    "Spring/Spring Security란.md",
+    "Spring/Spring AOP.md",
+    "Spring/Schedule/Quartz 배치 클러스터링.md",
+    "NetWork/AWS EC2 구축하기.md",
+    "DevOps/Docker 와 Docker-Compose 를 이용한 서버 구축.md",
+    "김영한님 강의/0-0 김영한의 실전 자바 입문/4-1 연산자.md",
+    "GIT/Git의 기본개념.md",
+    "Blog/1000_창고/Pasted image 20250408164335.png",
+    "김영한님 강의/0-1 김영한의 실전 자바 기본/13. 다음으로.md",
+    "김영한님 강의/0-1 김영한의 실전 자바 기본/2. 기본형과 참조형.md",
+    "김영한님 강의/0-1 김영한의 실전 자바 기본/7.자바 메모리 구조와 static.md",
+    "API/Webhook.md",
+    "API/API.md",
+    "BackOffice/멀티쓰레드 구조.md",
+    "BackOffice/권한 구조에 대한 고찰.md",
     "Blog/1000_창고/Pasted image 20250331113516.png",
     "Blog/1000_창고/Pasted image 20250331113449.png",
     "Blog/1000_창고/Pasted image 20250331113404.png",
@@ -212,30 +246,7 @@
     "Blog/1000_창고/Pasted image 20250331112537.png",
     "Blog/1000_창고/Pasted image 20250331112442.png",
     "Blog/1000_창고/Pasted image 20250331111741.png",
-    "Blog/1000_창고/Pasted image 20250331111113.png",
-    "김영한님 강의/0-1 김영한의 실전 자바 기본/9. 상속.md",
-    "패캠_부캠_정리/1w3d.md",
-    "DevOps/Docker.md",
-    "DevOps/윈도우 서버 구축하기.md",
-    "김영한님 강의/10-1.모든것이 HTTP/3_모든 것이 HTTP - HTTP 기본.md",
-    "김영한님 강의/10-1.모든것이 HTTP/2_모든 것이 HTTP - URI와 요청 흐름.md",
-    "김영한님 강의/10-1.모든것이 HTTP/1_모든 것이 HTTP - 인터넷 통신과 프로토콜.md",
-    "김영한님 강의/10-1.모든것이 HTTP/4_모든것이 HTTP - HTTP 메서드.md",
     "김영한님 강의/0-2 김영한의 실전 자바 중급 1편",
-    "김영한님 강의/0-1 김영한의 실전 자바 기본/8. final.md",
-    "김영한님 강의/0-1 김영한의 실전 자바 기본/7.자바 메모리 구조와 static.md",
-    "김영한님 강의/0-1 김영한의 실전 자바 기본/6.접근 제어자.md",
-    "김영한님 강의/0-1 김영한의 실전 자바 기본/5.패키지.md",
-    "김영한님 강의/0-1 김영한의 실전 자바 기본/4.생성자.md",
-    "김영한님 강의/0-1 김영한의 실전 자바 기본/3.객체 지향 프로그래밍.md",
-    "CodingTest/1.자바 알고리즘 문제풀이 입문/2-1 문자 찾기.md",
-    "김영한님 강의/0-1 김영한의 실전 자바 기본/13. 다음으로.md",
-    "김영한님 강의/0-1 김영한의 실전 자바 기본/12. 다형성과 설계.md",
-    "김영한님 강의/0-1 김영한의 실전 자바 기본/12 다형성2.md",
-    "김영한님 강의/0-1 김영한의 실전 자바 기본/10-2. 다형성.md",
-    "CodingTest/0-2.코딩테스트를 위한 자료구조(개념)/자바 문자와 문자열.md",
-    "CodingTest/0-1.코딩 테스트를 위한 자료구조(체화)/자바 문자(열) 처리.md",
-    "CodingTest/0-1.코딩 테스트를 위한 자료구조(체화)/Scanner 클래스.md",
     "기술서적 모음/자바의 정석/연습문제",
     "기술서적 모음/자바의 정석",
     "김영한님 강의/0-1 김영한의 실전 자바 기본/무제",
