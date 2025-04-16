@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "김영한님 강의/0-3 김영한의 실전 자바 중급 2편/2.제너릭-2.md",
+                "file": "API/API.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2.제너릭-2"
+              "title": "API"
             }
           },
           {
@@ -127,12 +127,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "김영한님 강의/0-3 김영한의 실전 자바 중급 2편/2.제너릭-2.md",
+                "file": "API/API.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "2.제너릭-2 의 나가는 링크"
+              "title": "API 의 나가는 링크"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "김영한님 강의/0-3 김영한의 실전 자바 중급 2편/2.제너릭-2.md",
+                "file": "API/API.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2.제너릭-2 의 개요"
+              "title": "API 의 개요"
             }
           },
           {
@@ -208,13 +208,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "879d87c5a1aa91e2",
+  "active": "07c447d321f91f4e",
   "lastOpenFiles": [
-    "김영한님 강의/0-3 김영한의 실전 자바 중급 2편/1. 제네릭.md",
+    "CodingTest/0-2.코딩테스트를 위한 자료구조(개념)/StringBuilder.md",
+    "Architecture/헥사고날 아키텍쳐 Board예제로  구현해보기 - 1.md",
+    "Architecture/클린 아키텍쳐에에서의 DTO 관리(네이밍).md",
+    "김영한님 강의/0-1 김영한의 실전 자바 기본/10-1. 다형성.md",
+    "김영한님 강의/10-1.모든것이 HTTP/1_모든 것이 HTTP - 인터넷 통신과 프로토콜.md",
     "김영한님 강의/0-3 김영한의 실전 자바 중급 2편/2.제너릭-2.md",
+    "김영한님 강의/0-3 김영한의 실전 자바 중급 2편/1. 제네릭.md",
     "OOP/객체지향의 4대 특성.md",
     "김영한님 강의/0-1 김영한의 실전 자바 기본/10-2. 다형성.md",
-    "김영한님 강의/0-1 김영한의 실전 자바 기본/10-1. 다형성.md",
     "김영한님 강의/0-1 김영한의 실전 자바 기본/12. 다형성과 설계.md",
     "CS/프로그램, 프로세스, 스레드.md",
     "김영한님 강의/0-1 김영한의 실전 자바 기본/1. 클래스가 필요한 이유.md",
@@ -233,10 +237,6 @@
     "김영한님 강의/0-1 김영한의 실전 자바 기본/13. 다음으로.md",
     "김영한님 강의/0-1 김영한의 실전 자바 기본/2. 기본형과 참조형.md",
     "김영한님 강의/0-1 김영한의 실전 자바 기본/7.자바 메모리 구조와 static.md",
-    "API/Webhook.md",
-    "API/API.md",
-    "BackOffice/멀티쓰레드 구조.md",
-    "BackOffice/권한 구조에 대한 고찰.md",
     "Blog/1000_창고/Pasted image 20250331113516.png",
     "Blog/1000_창고/Pasted image 20250331113449.png",
     "Blog/1000_창고/Pasted image 20250331113404.png",
