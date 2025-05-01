@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "API/API.md",
+                "file": "패스트캠퍼스_회고/커널 아카데미 백엔드 개발 부트캠프 5주차 회고.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "API"
+              "title": "커널 아카데미 백엔드 개발 부트캠프 5주차 회고"
             }
           },
           {
@@ -67,7 +67,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "제네릭",
+                "query": "좋은",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "API/API.md",
+                "file": "패스트캠퍼스_회고/커널 아카데미 백엔드 개발 부트캠프 5주차 회고.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "API 의 개요"
+              "title": "커널 아카데미 백엔드 개발 부트캠프 5주차 회고 의 개요"
             }
           },
           {
@@ -210,7 +210,25 @@
   },
   "active": "07c447d321f91f4e",
   "lastOpenFiles": [
+    "Blog/1000_창고/Pasted image 20250501154049.png",
+    "Blog/1000_창고/image.png",
+    "Blog/1000_창고/다운로드-_1_.jpg",
+    "Blog/1000_창고/다운로드 (1).jfif",
+    "Blog/1000_창고/KakaoTalk_20250501_133322797_03.jpg",
+    "Blog/1000_창고/KakaoTalk_20250501_133322797_02.jpg",
+    "Blog/1000_창고/KakaoTalk_20250501_133322797_01.jpg",
+    "Blog/1000_창고/KakaoTalk_20250501_133322797.jpg",
+    "Blog/1000_창고/maxresdefault.jpg",
+    "Blog/1000_창고/images (1).jfif",
+    "Blog/1000_창고/다운로드.jfif",
+    "Blog/1000_창고/KakaoTalk_20250501_132032337.jpg",
+    "Blog/1000_창고/KakaoTalk_20220415_235350503_24.jpg",
+    "Blog/1000_창고/KakaoTalk_20250501_132032337_01.jpg",
     "CodingTest/0-2.코딩테스트를 위한 자료구조(개념)/StringBuilder.md",
+    "CodeStyle/가독성 높은 코드를 작성하라.md",
+    "패스트캠퍼스_회고/커널 아카데미 백엔드 개발 부트캠프 5주차 회고.md",
+    "API/API.md",
+    "패스트캠퍼스_회고/1w3d.md",
     "Architecture/헥사고날 아키텍쳐 Board예제로  구현해보기 - 1.md",
     "Architecture/클린 아키텍쳐에에서의 DTO 관리(네이밍).md",
     "김영한님 강의/0-1 김영한의 실전 자바 기본/10-1. 다형성.md",
@@ -231,30 +249,12 @@
     "Spring/Schedule/Quartz 배치 클러스터링.md",
     "NetWork/AWS EC2 구축하기.md",
     "DevOps/Docker 와 Docker-Compose 를 이용한 서버 구축.md",
-    "김영한님 강의/0-0 김영한의 실전 자바 입문/4-1 연산자.md",
-    "GIT/Git의 기본개념.md",
-    "Blog/1000_창고/Pasted image 20250408164335.png",
-    "김영한님 강의/0-1 김영한의 실전 자바 기본/13. 다음으로.md",
-    "김영한님 강의/0-1 김영한의 실전 자바 기본/2. 기본형과 참조형.md",
-    "김영한님 강의/0-1 김영한의 실전 자바 기본/7.자바 메모리 구조와 static.md",
-    "Blog/1000_창고/Pasted image 20250331113516.png",
-    "Blog/1000_창고/Pasted image 20250331113449.png",
-    "Blog/1000_창고/Pasted image 20250331113404.png",
-    "Blog/1000_창고/Pasted image 20250331113049.png",
-    "Blog/1000_창고/Pasted image 20250331112825.png",
-    "Blog/1000_창고/Pasted image 20250331112659.png",
-    "Blog/1000_창고/Pasted image 20250331112537.png",
-    "Blog/1000_창고/Pasted image 20250331112442.png",
-    "Blog/1000_창고/Pasted image 20250331111741.png",
     "김영한님 강의/0-2 김영한의 실전 자바 중급 1편",
     "기술서적 모음/자바의 정석/연습문제",
     "기술서적 모음/자바의 정석",
     "김영한님 강의/0-1 김영한의 실전 자바 기본/무제",
     "김영한님 강의/0-0 김영한의 실전 자바 입문",
     "김영한님 강의/0-3 김영한의 실전 자바 중급 2편",
-    "CodingTest/0-2.코딩테스트를 위한 자료구조(개념)",
-    "김영한님 강의/0-1 김영한의 실전 자바 기본",
-    "김영한님 강의/2-1.Spring_MVC_Validation",
-    "기술서적 모음"
+    "CodingTest/0-2.코딩테스트를 위한 자료구조(개념)"
   ]
 }
